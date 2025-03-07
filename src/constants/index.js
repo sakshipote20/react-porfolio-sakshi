@@ -25,7 +25,7 @@ export const EXPERIENCES = [
     year: "2023 - Present",
     role: "Core member of Team Event management",
     company: "Information Technology Student's Association (ITSA)",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+    description: `As a core member of ITSA, I have played a key role in organizing and managing technical workshops, hackathons, and networking events aimed at enhancing students' technical and soft skills. Worked closely with peers to improve event coordination, optimize workflows, and foster a collaborative learning environment.`,
     technologies: ["Communication", "Management", "Leadership", "Collaboration"],
   },
 ];
